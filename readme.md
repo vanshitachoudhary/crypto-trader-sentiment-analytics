@@ -265,3 +265,7 @@ This project demonstrates practical skills in:
 * Business Insight Generation
 
 and showcases how sentiment-driven analysis can be applied to real-world cryptocurrency trading data.
+
+
+Note: The original historical_trader.csv dataset (~47 MB) is not included in this repository due to GitHub file size limitations. All analysis and dashboard outputs were generated locally using the complete dataset.
+
